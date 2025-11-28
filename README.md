@@ -1,19 +1,16 @@
-
-
-<!--
-**KimimaroKaguya/KimimaroKaguya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on **FullStack Developer**
+- 🌱 I’m currently learning **IOS Mobile**
+- 👯 I’m looking to collaborate on **Web & Mobile Projectes**
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **Technolofy and Personal Development**
+- 📫 How to reach me: **suthep.phetsanka@hotmail.com**
+- 😄 Pronouns: **He/Hi**
+- ⚡ Fun fact: *I run a YouTube Channel*
+
 
 
 ## 🌐 Socials:
