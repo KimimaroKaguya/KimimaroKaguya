@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **FullStack Developer** and **AI** ***Claude Code***
+- 🔭 I’m currently working on **FullStack Developer** and **AI** *****(Claude Code, Coplilote, Codex ...)*****
 - 🌱 I’m currently learning **IOS Mobile**
 - 👯 I’m looking to collaborate on **Web & Mobile Projectes**
 - 🤔 I’m looking for help with ...
